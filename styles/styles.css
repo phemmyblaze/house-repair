@@ -7,7 +7,6 @@
 body {
     font-size: 1rem;
     font-family: 'Roboto', sans-serif;
-    /* width: 100%; */
 }
 
 header {
@@ -39,7 +38,6 @@ header {
     margin: 0;
     line-height: 1.2;
     text-align: left;
-    /* padding-top: 120px; */
 }
 
 .hero-text h1 {
@@ -150,7 +148,6 @@ header {
     letter-spacing: 1px;
     font-size: 0.75rem;
     font-weight: 600;
-    /* border-style: solid; */
     margin: 30px auto 60px;
     padding: 16px 36px;
 }
@@ -158,7 +155,6 @@ header {
 .about-section .section-about .btn {
     text-decoration: none;
     text-align: center;
-    /* padding: 10px 30px; */
     border-radius: 0;
     align-self: flex-start;
 }
@@ -240,7 +236,6 @@ header {
     background-position: center;
     background-size: cover;
     display: flex;
-    /* align-items: center; */
     height: 50%;
     width: 100%;
 }
@@ -278,7 +273,6 @@ header {
      height: 5px;
      transform-origin: left center;
      margin: 30px auto 0 0;
-     /* border-color: #e71a23; */
      border: 6px solid #e71a23;
      width: 90%;
      align-items: center;
@@ -305,7 +299,6 @@ header {
     letter-spacing: 1px;
     font-size: 0.75rem;
     font-weight: 600;
-    /* border-style: solid; */
     margin: 30px auto 60px;
     padding: 16px 36px;
 }
@@ -313,7 +306,6 @@ header {
 .best-quality-text .btn {
     text-decoration: none;
     text-align: center;
-    /* padding: 10px 30px; */
     border-radius: 0;
     align-self: flex-start;
 }
@@ -321,7 +313,6 @@ header {
 .services {
     color: #111111;
     background-color: #fff;
-    /* text-align: center;  */
 }
 
 .service-text {
@@ -411,7 +402,6 @@ header {
     line-height: 1;
     margin: 10px 0 0;
     font-weight: 400;
-    /* padding-left: 100px; */
 }
 
 .work-section-img {
@@ -434,7 +424,6 @@ header {
     min-height: 100%;
     max-width: 100%;
     min-height: 222px;
-    /* background-image: url(//images03.nicepage.com/c461c07…/840fd2a…/frg.jpg); */
     background-position: 50% 50%;
     padding-top: 20px;
 }
@@ -503,8 +492,6 @@ header {
 
 .todo-btn-2 a {
     text-decoration: none;
-    /* color: #ffffff !important;
-    background-color: #e71a23 !important; */
     background-image: none;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -651,9 +638,6 @@ header {
 
 
 @media(max-width: 375px) {
-    /* body {
-        width: 300px;
-    } */
    .hero-text {
        padding-top: 100px;
        background-position: 81.49% 50%;
@@ -703,7 +687,6 @@ header {
     width: 340px;
     font-weight: 700;
     font-size: 3.125rem;
-    /* margin: 20px auto 0; */
     padding-right: 10px;
   }
 
@@ -888,7 +871,6 @@ header {
 
     .todo-btn  {
         flex-direction: column;
-        /* padding-bottom: ; */
     }
 
     .todo-btn-2 {
