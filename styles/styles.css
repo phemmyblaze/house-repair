@@ -639,9 +639,8 @@ header {
 
 @media(max-width: 375px) {
    .hero-text {
-       padding-top: 100px;
        background-position: 81.49% 50%;
-       padding: 80px 0;
+       padding: 50px 20px;
    }
 
    .hero-text h4 {
@@ -703,7 +702,7 @@ header {
     width: 300px;
     flex-direction: column;
     padding: 30px 100px;
-    margin-left: 10px;
+    margin-left: 50px;
   } 
 
   .help-need .help-1 img {
