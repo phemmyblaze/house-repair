@@ -7,16 +7,15 @@
 body {
     font-size: 1rem;
     font-family: 'Roboto', sans-serif;
-    width: 100%;
+    /* width: 100%; */
 }
 
 header {
     display: flex;
-    /* background-color: aquamarine; */
+    padding: 10px 0;
     justify-content: space-around;
     align-items: center;
     height: 10%;
-    /* padding: 10px; */
 }
 
 
@@ -355,7 +354,7 @@ header {
 }
 
 .icon-1 span img {
-    padding-top: 5px;
+    padding: 4px;
 }
 
 .icon-1 h4 {
@@ -721,7 +720,7 @@ header {
     width: 300px;
     flex-direction: column;
     padding: 30px 100px;
-    margin-left: 40px;
+    margin-left: 10px;
   } 
 
   .help-need .help-1 img {
@@ -731,7 +730,7 @@ header {
   .help-need .help-1 {
      min-height: 100%;
      width: 300px;
-     padding-left: 20px;
+     padding-left: 2px;
   }
 
   .help-need .help-1 p {
@@ -739,7 +738,7 @@ header {
     margin-top: 20px;
     margin-bottom: 20px;
     word-wrap: break-word;
-    padding: 0 20px;
+    padding: 0 2px;
     font-size: 0.9rem;
     line-height: 1.6;
     text-align: left;
@@ -748,7 +747,7 @@ header {
     .help-need .help-2 {
         min-height: 100%;
         width: 300px;
-        padding-left: 20px;
+        padding-left: 2px;
         text-align: left;
     }
 
@@ -768,7 +767,7 @@ header {
 
     .best-quality {
         flex-direction: column;
-        padding-left: 10px;
+        padding-left: 0;
         padding-right: 10px;
     }
 
@@ -825,7 +824,7 @@ header {
 
     .icon-1 {
         max-width: 100%;
-        padding: 0;
+        padding: 0 15px;
     }
 
     .icon-1 p {
@@ -865,13 +864,18 @@ header {
     .work-img {
         flex-direction: row;
         padding-right: 20px;
-        padding-bottom: 20px;
+        padding-bottom: 0;
     }
     
  
     .section-todo {
         width: 300px;
         margin-top: 15px;
+        margin: 0 10px;
+    }
+
+    .todo-text {
+        margin-top: 30px;
     }
 
     .section-todo .todo-text h2 {
@@ -884,6 +888,7 @@ header {
 
     .todo-btn  {
         flex-direction: column;
+        /* padding-bottom: ; */
     }
 
     .todo-btn-2 {
